@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
-    "repository": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
+    "website": "https://github.com/ujwaljadhav01-lab/PiroAutoFilterBot",
+    "repository": "https://github.com/ujwaljadhav01-lab/PiroAutoFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
